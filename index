@@ -8,7 +8,7 @@
 <div class= "container">
   <h3><div id= discover>Discover hidden places in the world around you</h3>
   <div id= "top"><h4>Download Excursion (coming soon!)</h4></div>
-<div id= "excursion" video src="excursion.mp4">
+  <div id= "video"><video src= "excursion.mp4"></video>
   <h3>Your personal travel guide</h3>
   <p>Excursion remembers places you like, and recommends new points of interest around you.</p>
 
